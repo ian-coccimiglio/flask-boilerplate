@@ -9,8 +9,9 @@ Cheers!
 <hr>
 
 ## Authorship
-Original project by realpython
-Current updates by Ian Coccimiglio
+Original project authored by realpython
+
+Latest updates by Ian Coccimiglio
 
 ### Quick Start
 
